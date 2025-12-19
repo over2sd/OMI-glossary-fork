@@ -1,8 +1,12 @@
 # Open Memetics Institute
 
-**Current status (Oct 2025)**: A loose cluster of people all working on similar things (monitoring the memetic landscape, raising the epistemic waterline, and actively attempting to shape culture). 
+The website is built with [mdBook](https://rust-lang.github.io/mdBook/), and deployed with a GitHub action ([ci.yaml](.github/workflows/ci.yaml)).
 
-The upcoming milestone is to form an open coalition similar to [Open Street Map](https://www.openstreetmap.org/about) but for memetics. 
+To run locally, install `mdBook`, then:
+
+```
+~/mdbook serve
+```
 
 ----
 
